@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="23b56d09-92bb-4726-85a1-96ed80030778" name="ravikarthik@KARTHIK 2019-12-08 22:56:24" runUser="karthik\ravikarthik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="33c811b7-5bea-41b8-914e-0c47b34d7086">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ravikarthik_KARTHIK 2019-12-08 22_56_24">
+      <DeploymentItem filename="C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\bin\Debug\BakeryProj.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-12-08T22:56:24.1562599+05:30" queuing="2019-12-08T22:56:24.2031355+05:30" start="2019-12-08T22:56:24.2187556+05:30" finish="2019-12-08T22:56:24.7574259+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateBlueberryMuffin" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="a1bea695-9489-220a-fddd-75bffb683f81">
+      <Execution id="fd66fa49-0b95-4cc3-b355-424d3d082173" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffin" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a1bea695-9489-220a-fddd-75bffb683f81" executionId="fd66fa49-0b95-4cc3-b355-424d3d082173" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fd66fa49-0b95-4cc3-b355-424d3d082173" testId="a1bea695-9489-220a-fddd-75bffb683f81" testName="CalculateBlueberryMuffin" computerName="KARTHIK" duration="00:00:00.0348292" startTime="2019-12-08T22:56:24.2187556+05:30" endTime="2019-12-08T22:56:24.7417960+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd66fa49-0b95-4cc3-b355-424d3d082173">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffin() in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\UnitTestBlueberryMuffin.cs:line 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

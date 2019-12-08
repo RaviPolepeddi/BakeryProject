@@ -1,0 +1,7 @@
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\bin\Debug\BakeryTestProject.dll
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\bin\Debug\BakeryTestProject.pdb
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\bin\Debug\BakeryProj.exe
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\bin\Debug\BakeryProj.pdb
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\obj\Debug\BakeryTestProject.csprojResolveAssemblyReference.cache
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\obj\Debug\BakeryTestProject.dll
+C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\obj\Debug\BakeryTestProject.pdb

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="49cc1e40-516b-4720-aa55-78914300d33b" name="ravikarthik@KARTHIK 2019-12-08 22:55:23" runUser="karthik\ravikarthik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="33c811b7-5bea-41b8-914e-0c47b34d7086">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ravikarthik_KARTHIK 2019-12-08 22_55_23">
+      <DeploymentItem filename="C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\bin\Debug\BakeryProj.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-12-08T22:55:23.7835677+05:30" queuing="2019-12-08T22:55:23.8304168+05:30" start="2019-12-08T22:55:23.8304168+05:30" finish="2019-12-08T22:55:24.6353929+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateBlueberryMuffinwithIncorrectValue" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="82d9d419-74aa-8408-790d-3bb5302b930c">
+      <Execution id="92fb4cb1-c6fd-4f72-95d1-910cb12fbe9a" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinwithIncorrectValue" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffin" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="a1bea695-9489-220a-fddd-75bffb683f81">
+      <Execution id="5608dd97-d090-4d59-bbcd-a970fc6c5b5b" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffin" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffinwithNull" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="d572fe13-c6b7-bf47-988a-b02a3cbbf08d">
+      <Execution id="becf703e-dddf-4997-a995-8ba572d54c20" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinwithNull" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffinOutput2" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="c0be86ae-69f2-71b7-c16c-5c4a0ce18350">
+      <Execution id="955d2f64-25ac-466c-8b65-84f5891bd133" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinOutput2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="82d9d419-74aa-8408-790d-3bb5302b930c" executionId="92fb4cb1-c6fd-4f72-95d1-910cb12fbe9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1bea695-9489-220a-fddd-75bffb683f81" executionId="5608dd97-d090-4d59-bbcd-a970fc6c5b5b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0be86ae-69f2-71b7-c16c-5c4a0ce18350" executionId="955d2f64-25ac-466c-8b65-84f5891bd133" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d572fe13-c6b7-bf47-988a-b02a3cbbf08d" executionId="becf703e-dddf-4997-a995-8ba572d54c20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="92fb4cb1-c6fd-4f72-95d1-910cb12fbe9a" testId="82d9d419-74aa-8408-790d-3bb5302b930c" testName="CalculateBlueberryMuffinwithIncorrectValue" computerName="KARTHIK" duration="00:00:00.0763733" startTime="2019-12-08T22:55:23.8304168+05:30" endTime="2019-12-08T22:55:24.5770231+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92fb4cb1-c6fd-4f72-95d1-910cb12fbe9a">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffinwithIncorrectValue threw exception: 
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.</Message>
+          <StackTrace>    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BakeryProj.BlueberryMuffin.Calculate(Int32 quantity) in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\BlueberryMuffin.cs:line 63
+   at BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffinwithIncorrectValue() in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\UnitTestBlueberryMuffin.cs:line 42
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5608dd97-d090-4d59-bbcd-a970fc6c5b5b" testId="a1bea695-9489-220a-fddd-75bffb683f81" testName="CalculateBlueberryMuffin" computerName="KARTHIK" duration="00:00:00.0080933" startTime="2019-12-08T22:55:24.5770231+05:30" endTime="2019-12-08T22:55:24.5971408+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5608dd97-d090-4d59-bbcd-a970fc6c5b5b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffin() in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\UnitTestBlueberryMuffin.cs:line 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="955d2f64-25ac-466c-8b65-84f5891bd133" testId="c0be86ae-69f2-71b7-c16c-5c4a0ce18350" testName="CalculateBlueberryMuffinOutput2" computerName="KARTHIK" duration="00:00:00.0035141" startTime="2019-12-08T22:55:24.5971408+05:30" endTime="2019-12-08T22:55:24.6072052+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="955d2f64-25ac-466c-8b65-84f5891bd133">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffinOutput2() in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\UnitTestBlueberryMuffin.cs:line 32
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="becf703e-dddf-4997-a995-8ba572d54c20" testId="d572fe13-c6b7-bf47-988a-b02a3cbbf08d" testName="CalculateBlueberryMuffinwithNull" computerName="KARTHIK" duration="00:00:00.0032863" startTime="2019-12-08T22:55:24.6072052+05:30" endTime="2019-12-08T22:55:24.6172902+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="becf703e-dddf-4997-a995-8ba572d54c20">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffinwithNull threw exception: 
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.</Message>
+          <StackTrace>    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BakeryProj.BlueberryMuffin.Calculate(Int32 quantity) in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\BlueberryMuffin.cs:line 63
+   at BakeryTestProject.UnitTestBlueberryMuffin.CalculateBlueberryMuffinwithNull() in C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryTestProject\UnitTestBlueberryMuffin.cs:line 53
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

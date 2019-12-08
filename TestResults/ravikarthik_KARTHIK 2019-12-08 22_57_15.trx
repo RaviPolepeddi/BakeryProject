@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ed04aa17-895c-474b-824a-339bcb7ac343" name="ravikarthik@KARTHIK 2019-12-08 22:57:15" runUser="karthik\ravikarthik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="33c811b7-5bea-41b8-914e-0c47b34d7086">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ravikarthik_KARTHIK 2019-12-08 22_57_15">
+      <DeploymentItem filename="C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\bin\Debug\BakeryProj.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-12-08T22:57:15.3619596+05:30" queuing="2019-12-08T22:57:15.4153424+05:30" start="2019-12-08T22:57:15.4153424+05:30" finish="2019-12-08T22:57:15.9947562+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="calculate_crossaintWithIncorrectOutput" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="16407c3c-e96a-23b5-488c-c96bbbcc0a2a">
+      <Execution id="45b900ec-3c70-4224-a923-4d6dc1d76379" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestCroissant, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculate_crossaintWithIncorrectOutput" />
+    </UnitTest>
+    <UnitTest name="calculate_crossaintoutput2" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="883c9fa7-d62e-2f7b-2444-fd26f1c32a2f">
+      <Execution id="c4552f04-a843-4233-a73f-a7ddcfb8fc3f" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestCroissant, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculate_crossaintoutput2" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffinwithIncorrectValue" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="82d9d419-74aa-8408-790d-3bb5302b930c">
+      <Execution id="e27996de-0997-498b-9936-f48ca0f8485d" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinwithIncorrectValue" />
+    </UnitTest>
+    <UnitTest name="calculate_crossaint" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="fb662ec8-8ac0-7443-9f6f-cf0ed9400455">
+      <Execution id="3e535a4a-8a59-44b7-afcb-b85f50c5e937" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestCroissant, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculate_crossaint" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffin" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="a1bea695-9489-220a-fddd-75bffb683f81">
+      <Execution id="f7bde657-927b-42dd-93be-a7232401676a" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffin" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffinwithNull" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="d572fe13-c6b7-bf47-988a-b02a3cbbf08d">
+      <Execution id="e69f4eb3-1b26-49fa-8e29-27824aedf506" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinwithNull" />
+    </UnitTest>
+    <UnitTest name="CalculateBlueberryMuffinOutput2" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="c0be86ae-69f2-71b7-c16c-5c4a0ce18350">
+      <Execution id="67d9f239-b46e-490b-8e63-7770ec2a1489" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestBlueberryMuffin, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateBlueberryMuffinOutput2" />
+    </UnitTest>
+    <UnitTest name="calculate_crossaintWithNullInputput" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="57ade7cd-4426-3386-1bb2-09504060c15c">
+      <Execution id="b1d0ffac-0818-4eca-b9ec-4ae2e976e720" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTestCroissant, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculate_crossaintWithNullInputput" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="16407c3c-e96a-23b5-488c-c96bbbcc0a2a" executionId="45b900ec-3c70-4224-a923-4d6dc1d76379" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57ade7cd-4426-3386-1bb2-09504060c15c" executionId="b1d0ffac-0818-4eca-b9ec-4ae2e976e720" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="82d9d419-74aa-8408-790d-3bb5302b930c" executionId="e27996de-0997-498b-9936-f48ca0f8485d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="883c9fa7-d62e-2f7b-2444-fd26f1c32a2f" executionId="c4552f04-a843-4233-a73f-a7ddcfb8fc3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1bea695-9489-220a-fddd-75bffb683f81" executionId="f7bde657-927b-42dd-93be-a7232401676a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0be86ae-69f2-71b7-c16c-5c4a0ce18350" executionId="67d9f239-b46e-490b-8e63-7770ec2a1489" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d572fe13-c6b7-bf47-988a-b02a3cbbf08d" executionId="e69f4eb3-1b26-49fa-8e29-27824aedf506" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb662ec8-8ac0-7443-9f6f-cf0ed9400455" executionId="3e535a4a-8a59-44b7-afcb-b85f50c5e937" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="45b900ec-3c70-4224-a923-4d6dc1d76379" testId="16407c3c-e96a-23b5-488c-c96bbbcc0a2a" testName="calculate_crossaintWithIncorrectOutput" computerName="KARTHIK" duration="00:00:00.0184015" startTime="2019-12-08T22:57:15.4309747+05:30" endTime="2019-12-08T22:57:15.9478832+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45b900ec-3c70-4224-a923-4d6dc1d76379">
+    </UnitTestResult>
+    <UnitTestResult executionId="b1d0ffac-0818-4eca-b9ec-4ae2e976e720" testId="57ade7cd-4426-3386-1bb2-09504060c15c" testName="calculate_crossaintWithNullInputput" computerName="KARTHIK" duration="00:00:00.0002745" startTime="2019-12-08T22:57:15.9478832+05:30" endTime="2019-12-08T22:57:15.9635047+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1d0ffac-0818-4eca-b9ec-4ae2e976e720">
+    </UnitTestResult>
+    <UnitTestResult executionId="e27996de-0997-498b-9936-f48ca0f8485d" testId="82d9d419-74aa-8408-790d-3bb5302b930c" testName="CalculateBlueberryMuffinwithIncorrectValue" computerName="KARTHIK" duration="00:00:00.0016684" startTime="2019-12-08T22:57:15.9635047+05:30" endTime="2019-12-08T22:57:15.9635047+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e27996de-0997-498b-9936-f48ca0f8485d">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4552f04-a843-4233-a73f-a7ddcfb8fc3f" testId="883c9fa7-d62e-2f7b-2444-fd26f1c32a2f" testName="calculate_crossaintoutput2" computerName="KARTHIK" duration="00:00:00.0002383" startTime="2019-12-08T22:57:15.9635047+05:30" endTime="2019-12-08T22:57:15.9635047+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4552f04-a843-4233-a73f-a7ddcfb8fc3f">
+    </UnitTestResult>
+    <UnitTestResult executionId="f7bde657-927b-42dd-93be-a7232401676a" testId="a1bea695-9489-220a-fddd-75bffb683f81" testName="CalculateBlueberryMuffin" computerName="KARTHIK" duration="00:00:00.0002463" startTime="2019-12-08T22:57:15.9635047+05:30" endTime="2019-12-08T22:57:15.9791316+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f7bde657-927b-42dd-93be-a7232401676a">
+    </UnitTestResult>
+    <UnitTestResult executionId="67d9f239-b46e-490b-8e63-7770ec2a1489" testId="c0be86ae-69f2-71b7-c16c-5c4a0ce18350" testName="CalculateBlueberryMuffinOutput2" computerName="KARTHIK" duration="00:00:00.0003108" startTime="2019-12-08T22:57:15.9791316+05:30" endTime="2019-12-08T22:57:15.9791316+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67d9f239-b46e-490b-8e63-7770ec2a1489">
+    </UnitTestResult>
+    <UnitTestResult executionId="e69f4eb3-1b26-49fa-8e29-27824aedf506" testId="d572fe13-c6b7-bf47-988a-b02a3cbbf08d" testName="CalculateBlueberryMuffinwithNull" computerName="KARTHIK" duration="00:00:00.0002452" startTime="2019-12-08T22:57:15.9791316+05:30" endTime="2019-12-08T22:57:15.9791316+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e69f4eb3-1b26-49fa-8e29-27824aedf506">
+    </UnitTestResult>
+    <UnitTestResult executionId="3e535a4a-8a59-44b7-afcb-b85f50c5e937" testId="fb662ec8-8ac0-7443-9f6f-cf0ed9400455" testName="calculate_crossaint" computerName="KARTHIK" duration="00:00:00.0003997" startTime="2019-12-08T22:57:15.9791316+05:30" endTime="2019-12-08T22:57:15.9947562+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e535a4a-8a59-44b7-afcb-b85f50c5e937">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5bf9cbad-c16e-4142-8cd7-6eb162490dd2" name="ravikarthik@KARTHIK 2019-12-07 21:49:16" runUser="karthik\ravikarthik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="33c811b7-5bea-41b8-914e-0c47b34d7086">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ravikarthik_KARTHIK 2019-12-07 21_49_16">
+      <DeploymentItem filename="C:\Users\ravikarthik\Desktop\CSharp\BakeryProj\BakeryProj\bin\Debug\BakeryProj.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-12-07T21:49:16.2076086+05:30" queuing="2019-12-07T21:49:16.3455298+05:30" start="2019-12-07T21:49:16.3645192+05:30" finish="2019-12-07T21:49:17.0557042+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="calculate_crossaint" storage="c:\users\ravikarthik\desktop\csharp\bakeryproj\bakerytestproject\bin\debug\bakerytestproject.dll" id="28f0b271-9ed3-c597-4f46-fbf2c29829b3">
+      <Execution id="a4e4030b-fcc0-4bea-8790-01a696741a07" />
+      <TestMethod codeBase="C:/Users/ravikarthik/Desktop/CSharp/BakeryProj/BakeryTestProject/bin/Debug/BakeryTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BakeryTestProject.UnitTest1, BakeryTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculate_crossaint" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="28f0b271-9ed3-c597-4f46-fbf2c29829b3" executionId="a4e4030b-fcc0-4bea-8790-01a696741a07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a4e4030b-fcc0-4bea-8790-01a696741a07" testId="28f0b271-9ed3-c597-4f46-fbf2c29829b3" testName="calculate_crossaint" computerName="KARTHIK" duration="00:00:00.0199922" startTime="2019-12-07T21:49:16.3805103+05:30" endTime="2019-12-07T21:49:17.0267414+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a4e4030b-fcc0-4bea-8790-01a696741a07">
+    </UnitTestResult>
+  </Results>
+</TestRun>
